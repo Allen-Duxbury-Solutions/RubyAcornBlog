@@ -15,10 +15,10 @@
     },
     "blog": {
         "title": {
-            "defaultValue": "Ghost"
+            "defaultValue": "RubyAcorn"
         },
         "description": {
-            "defaultValue": "Just a blogging platform."
+            "defaultValue": "RubyAcorn"
         },
         "logo": {
             "defaultValue": ""
